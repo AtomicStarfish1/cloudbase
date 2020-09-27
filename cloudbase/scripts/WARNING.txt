@@ -1,3 +1,0 @@
-Currently socare.py is WIP
-
-DO NOT USE
