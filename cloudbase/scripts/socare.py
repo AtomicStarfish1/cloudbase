@@ -12,9 +12,9 @@ print(os.getcwd())
 
 while (l==1):
     #   This section syncs shared folders and share folders, names and stuff
-    path = os.listdir("/cbusers/*")
-    dst = os.listdir("/cbusers/share")
-    dst2 = os.listdir("/cbuser/shared")
+    path = os.listdir("/users/*")
+    dst = os.listdir("/users/share")
+    dst2 = os.listdir("/user/shared")
     print(path + dst + dst2)
     if ((path == dst) == 0):
         print("Currently unsynced. Syncing " + path + dst)
