@@ -18,5 +18,7 @@ The modifications are that the files that the users themselves put onto the serv
 # Goals
 
 . To be a homebrewable alternative to Google Drive
+
 . To have as many or more features as Google Drive
+
 . To be free and opensource forever, for anyone to use for decades to come
