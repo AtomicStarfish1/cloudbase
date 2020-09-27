@@ -1,0 +1,24 @@
+How to set up server:
+
+1. Save cloudbase to a good directory
+2. Set socare.py to startup or manually open it every time
+3. Download an ftp client and server client (Preferably filezilla, just avoid the adware :| or use unchecky)
+4. Set up users
+5. Set up ftp server
+6. Set up admin account
+6.1: Give admin cloudbase root privelages
+6.2: Give a secure password
+7: Tell users to use ftp and use it
+8: Congratulations
+
+
+
+How to create user:
+
+1. Use the cruser script (found in scripts/cruser.py)*
+2. Set up user in ftp server
+2.1 Set up name
+2.2 Use their user folder as their home directory
+3. Revel in your accomplishments
+
+*You can also do it manually by copying the user folder in scripts to the users folder

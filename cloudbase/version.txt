@@ -1,0 +1,19 @@
+Unstable Pre-alpha Development version 0.1πω
+
+
+
+
+Development symbols I use:
+
+	Primary symbols:
+		Pi (π): pre-alpha or development build
+		Alpha (α): alpha build
+		Beta (β): Beta build
+		Gamma (γ): Release candidate build
+		Epsilon (ε): Released build
+		Delta (δ): Long-term and reliable stable build
+
+	Secondary symbols:
+		Sigma (σ): Stable build
+		Omega (ω): Unstable build
+		Lamda (λ): Testing / Live development release
