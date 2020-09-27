@@ -14,7 +14,7 @@ How to set up server:
 
 
 How to create user:
-
+0. Check if the 'users' folder is created. If not create one.
 1. Use the cruser script (found in scripts/cruser.py)*
 2. Set up user in ftp server
 2.1 Set up name
