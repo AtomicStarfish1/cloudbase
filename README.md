@@ -15,6 +15,8 @@ Present in the 'version.txt' file also found in the root folder.
 This code is licensed under the GNU Affero General Public License, with modifications.
 The modifications are that the files that the users themselves put onto the server that do not run the server itself do not have to be redistributed, only the cloud files needed to have a clean copy of that server.
 
+All cloudbase servers or software that is based off of cloudbase must also be licensed under the GNU Affero General Public License, with my modifications.
+
 # Goals
 
 . To be a homebrewable alternative to Google Drive
