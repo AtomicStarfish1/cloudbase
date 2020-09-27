@@ -1,0 +1,14 @@
+The typical default user folder architecture:
+
+*Username*
+  files
+
+  
+With share on
+
+*Username*
+  files
+  share
+    *all other users present on the server (each one has a seperate folder)*
+  shared
+    *all other users present on the server (each one has a seperate folder)*
